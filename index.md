@@ -4,7 +4,7 @@ My first website using Markdown and GitHub Pages.
 
 ## Links (Two hashes is a second level heading)
 
-Here's a clickable link: [My favorite AI assistant](Jacob Sellinger _ LinkedIn.html) Its me - I'm my favorite AI assistant
+Here's a clickable link: [My favorite AI assistant](https://www.linkedin.com/in/jacob-sellinger/) Its me - I'm my favorite AI assistant
 
 ## Images
 
